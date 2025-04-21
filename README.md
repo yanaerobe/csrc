@@ -17,7 +17,8 @@ Download it however you like, and put them under:
 
 `/Steam/steamapps/common/Counter-Strike\ Global\ Offensive/game/csgo/cfg/`
 
-In CS2, [enable your console], where you run
+In CS2, [enable your console](https://prosettings.net/blog/open-console-cs2/),
+where you run
 
 ```shell
 exec FILENAME
